@@ -108,7 +108,7 @@ function App() {
       {/* Connect With Us Section */}
       <div className="p-16">
         <h1 className="text-3xl font-bold mb-8 text-center text-black">Connect with Us</h1>
-        <p className="mb-16">
+        <p className="mb-16 justify-center">
           Have questions, recommendations, or simply want to share your Bali
           stories? We'd love to hear from you. Reach out to us through our
           contact page or connect with us on social media. Let's build a
